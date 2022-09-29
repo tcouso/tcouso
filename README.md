@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomás Couso Coddou</h1>
-<h3 align="center">A computer science and psychology major interested in Artificial Intelligence and Cognitive Science. I've a teaching assistant in Artificial Intelligence, Developmental Psychology and Biological Foundations of Behaviour</h3>
+<h3 align="center">A computer science and psychology major interested in Artificial Intelligence and Cognitive Science. </h3>
 
-- 🔭 I’m currently working on **Artificial Intelligence educational material with mathematical animations.**
+- 🔭 I’m currently working on **Artificial Intelligence educational material with mathematical animations with Manim library (python).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
