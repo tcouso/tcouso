@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomás Couso Coddou</h1>
-<h3 align="center">A computer science and psychology major interested in Artificial Intelligence and Cognitive Science. </h3>
+<h3 align="center">A Computer Science and Psychology major interested in Artificial Intelligence and Cognitive Science. </h3>
 
 - 🔭 I’m currently working on **Artificial Intelligence educational material with mathematical animations with Manim library (python).**
 
