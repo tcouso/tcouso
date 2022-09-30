@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tomás Couso Coddou</h1>
 <h3 align="center">A Computer Science and Psychology major interested in Artificial Intelligence and Cognitive Science. </h3>
 
-- 🔭 I’m currently working on **Artificial Intelligence educational material with mathematical animations with Manim library (python).**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/tomscouso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tomscouso" height="30" width="40" /></a>
