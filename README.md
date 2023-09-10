@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomás Couso Coddou</h1>
-<h3 align="center">A Computer Science and Psychology major interested in Artificial Intelligence. </h3>
+<h3 align="center">A Computer Science major interested in Artificial Intelligence. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
